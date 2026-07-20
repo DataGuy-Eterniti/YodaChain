@@ -46,8 +46,9 @@ To connect your wallet and submit updates, open the app inside the **MetaMask mo
 
 ## Live Demo
 
-- **App:**[https://5v8i0enwxitz3s4d8x8mt9iv0.nativelyai.app/]
-- **Demo Video:** [https://youtu.be/d0yXqGl4B0w]
+- **App:** https://5v8i0enwxitz3s4d8x8mt9iv0.nativelyai.app/
+- **Demo Video:** https://youtu.be/d0yXqGl4B0w
+- **GitHub repo clone for deployment**: https://github.com/DataGuy-Eterniti/yodachain--unilorin-smart-campus-navigation
 
 ## Team
 
